@@ -12,3 +12,5 @@ Hallo ich habe keine Ahnung welcher Charakter ich bin. Ich versuche hiermit auf 
 * Stubenrein
 
 > Gegen dumme Menschen kann man nichts machen.
+
+<img src="https://de.wikipedia.org/wiki/Alexander_Marcus#/media/Datei:Alexander_Marcus_2007.jpeg"/>
