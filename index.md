@@ -10,3 +10,5 @@ Hallo ich habe keine Ahnung welcher Charakter ich bin. Ich versuche hiermit auf 
 * WItzig
 * Clever
 * Stubenrein
+
+> Gegen dumme Menschen kann man nichts machen.
